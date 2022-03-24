@@ -1,0 +1,97 @@
+@media (max-width: 320px){
+
+}
+@media (min-width: 321px) and (max-width: 375px){
+    
+}
+@media  (min-width: 376px) {
+    .main {
+        margin: 0px 62px;
+    }
+    .sec2 a{
+    margin-left: 106px;
+    }
+    
+}
+@media (min-width: 426px) and (max-width: 768px){
+    .footmain {
+        margin: 0px 50px;
+    }
+    .main {
+        margin: 0px 50px;
+    }
+    .sec2{
+        margin-top: 25px;
+    } 
+    .sec2 a{
+        margin-left: 280px; 
+        } 
+     .sec2 p{
+        padding: 5px 58px;
+     } 
+     .card{
+        padding: 7px;
+     }  
+     .sec3 a{
+        margin-left: 280px; 
+        }  
+    .sec3 p{
+        padding: 5px 69px;
+    }
+    .sec4 a{
+        margin-left: 280px; 
+        }  
+    .sec4 p{
+        padding: 5px 20px;
+    } 
+    .sec5 p{
+        padding: 5px 20px;
+    }
+    .cards{
+        padding: 7px;
+    }
+      
+              
+}
+@media (min-width: 769px) and (max-width: 1024px){
+    .sec2{
+        margin-top: 25px;
+    } 
+ .sec1-left h1{
+     font-size: 1.5rem;
+ } 
+ .sec-left p{
+     font-size: 12px;
+ }
+ .sec2 a{
+ margin-left: 303px; 
+ }
+ .sec2 p{
+    padding: 5px 105px;
+ }
+ .card{
+     padding: 8px;
+ }
+ .sec3 a{
+    margin-left: 303px; 
+    }
+   .sec3 p{
+    padding: 5px 99px;
+   } 
+   .sec4 a{
+    margin-left: 303px; 
+    }
+   .sec4 p{
+    padding: 5px 53px;
+   } 
+   .cards{
+       padding: 8px;
+   }
+   .nav > ul > a > li {
+     margin: 3px 24px;
+    
+   }
+}
+@media (min-width:1025px){
+    
+}
